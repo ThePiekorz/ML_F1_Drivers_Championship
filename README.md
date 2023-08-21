@@ -8,7 +8,7 @@ In this project I used dataset available on kaggle - https://www.kaggle.com/data
 It's a neural network, with optimized hyperparameters using RandomSearch.
 
 # Results
-Usage of Earltstop did not help to improve results.
+Usage of Earlystop did not help to improve results.
 Overall accuracy around 2.8 places in not that bad.
 KerasTuner gave simmilar results to first NN Model, but with a bigger NN Model.
 
